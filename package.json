@@ -1,0 +1,18 @@
+{
+  "name": "renting-a-car",
+  "version": "1.0.0",
+  "description": "## Use Case 01",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "seed": "node ./seed"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^9.3.0"
+  }
+}
